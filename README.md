@@ -25,3 +25,10 @@ Stata to Spark Workspace and Notes
 
   . jdbc describe <table>
   ```
+
+#### Integration with Jupyter
+- Jupyter Notebook with Stata
+  [https://www.stata.com/new-in-stata/jupyter-notebooks/](https://www.stata.com/new-in-stata/jupyter-notebooks/) </br>
+
+- Stata Kernel
+  [https://kylebarron.dev/stata_kernel/](https://kylebarron.dev/stata_kernel/) <br/>
