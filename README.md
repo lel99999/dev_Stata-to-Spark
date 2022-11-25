@@ -32,3 +32,8 @@ Stata to Spark Workspace and Notes
 
 - Stata Kernel
   [https://kylebarron.dev/stata_kernel/](https://kylebarron.dev/stata_kernel/) <br/>
+  
+- Magic Commands
+  [https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html) <br/>
+  
+  
