@@ -36,4 +36,6 @@ Stata to Spark Workspace and Notes
 - Magic Commands
   [https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html) <br/>
   
-  
+
+#### Stata Blog
+- [https://blog.stata.com/tag/jupyter-notebook/](https://blog.stata.com/tag/jupyter-notebook/) <br/>
