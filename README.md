@@ -35,7 +35,19 @@ Stata to Spark Workspace and Notes
   
 - Magic Commands
   [https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html](https://www.stata.com/python/pystata/notebook/Magic%20Commands1.html) <br/>
+
+#### Stata 17 Itegration
+- Initiate and Run <br/>
+  ```
+  import sys
+  sys.path.append('/<path>/stata17/utilities')
+  from pystata import config
+  config.init("mp")
   
+  %%stata
+  sysuse auto, clear
+  summarize mpg
+  ```
 
 #### Stata Blog
 - [https://blog.stata.com/tag/jupyter-notebook/](https://blog.stata.com/tag/jupyter-notebook/) <br/>
